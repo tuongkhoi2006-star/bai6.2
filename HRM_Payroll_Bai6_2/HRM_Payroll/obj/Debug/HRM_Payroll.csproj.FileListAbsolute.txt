@@ -1,0 +1,7 @@
+C:\Users\PC\Downloads\HRM_Payroll_Bai6_2\HRM_Payroll\bin\Debug\HRM_Payroll.exe.config
+C:\Users\PC\Downloads\HRM_Payroll_Bai6_2\HRM_Payroll\bin\Debug\HRM_Payroll.exe
+C:\Users\PC\Downloads\HRM_Payroll_Bai6_2\HRM_Payroll\bin\Debug\HRM_Payroll.pdb
+C:\Users\PC\Downloads\HRM_Payroll_Bai6_2\HRM_Payroll\obj\Debug\HRM_Payroll.csproj.AssemblyReference.cache
+C:\Users\PC\Downloads\HRM_Payroll_Bai6_2\HRM_Payroll\obj\Debug\HRM_Payroll.csproj.CoreCompileInputs.cache
+C:\Users\PC\Downloads\HRM_Payroll_Bai6_2\HRM_Payroll\obj\Debug\HRM_Payroll.exe
+C:\Users\PC\Downloads\HRM_Payroll_Bai6_2\HRM_Payroll\obj\Debug\HRM_Payroll.pdb
